@@ -1,4 +1,4 @@
-# Grupo 1 Oasis Valley
+# Grupo 1 - Oasis Valley
 
 Definir la temática del Market Place 
 
