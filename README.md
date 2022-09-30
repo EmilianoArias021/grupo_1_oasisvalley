@@ -1,4 +1,4 @@
-# Práctica Profesionalizante - Instituto de Educación Superior Manuel Belgrano 9008 - 2022
+# Práctica Profesionalizante I - Instituto de Educación Superior Manuel Belgrano 9008 - 2022
 
 ## Grupo 1 - Oasis Valley
 
